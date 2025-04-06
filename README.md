@@ -36,6 +36,6 @@ Dataset Link 🔗 [Link](https://drive.google.com/drive/folders/1ljvH_6HfT1uSoKB
 | Model Name                  | Test Loss | Accuracy (%) | Images per Class | Total Images | model architecture Link        |
 |----------------------------|-----------|---------------|------------------|--------------|-------------|
 | genre_model_resnet18_200   | 0.95711   | 68.40         | 32               | 320          | 🔗 [Link](https://github.com/SahilKadge/Evaluation-Test-ArtExtract/blob/main/task1/artist_style_genre_model.py) |
-| genre_model_resnet18_450   | 1.04103   | 68.40         | 200              | 2000         | 🔗 [Link](https://github.com/SahilKadge/Evaluation-Test-ArtExtract/blob/main/task1/artist_style_genre_model.py) |
-| genre_model_resnet50_450   | 0.82829   | 74.20         | 200              | 2000         | 🔗 [Link](https://github.com/SahilKadge/Evaluation-Test-ArtExtract/blob/main/task1/genre/genre_model.py) |
+| genre_model_resnet18_450   | 1.04103   | 68.40         | 450              | 4500         | 🔗 [Link](https://github.com/SahilKadge/Evaluation-Test-ArtExtract/blob/main/task1/artist_style_genre_model.py) |
+| genre_model_resnet50_450   | 0.82829   | 74.20         | 450              | 4500         | 🔗 [Link](https://github.com/SahilKadge/Evaluation-Test-ArtExtract/blob/main/task1/genre/genre_model.py) |
 
