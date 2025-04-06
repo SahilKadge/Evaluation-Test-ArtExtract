@@ -1,7 +1,7 @@
 # Evaluation-Test-ArtExtract
 
 
-### 📊 Model Performance Comparison
+### 📊 Model Performance Comparison 🔗 [Link](https://github.com/SahilKadge/Evaluation-Test-ArtExtract/blob/main/task1/evaluation.py)
 
 | Model Name                                                   | Test Loss | Accuracy (%) | Images per Class | Total Images | model architecture Link        |
 |--------------------------------------------------------------|-----------|---------------|------------------|--------------|-------------|
