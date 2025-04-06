@@ -1,6 +1,8 @@
 # Evaluation-Test-ArtExtract
 
+### Link to view and download models   🔗 [Link](https://drive.google.com/drive/folders/12-nycVsVzoftfbqKunuFDpw_kTOz1vCJ?usp=sharing}
 
+I have customize the csv file 
 ### 📊 Artist Model Performance Comparison 🔗 [Link](https://github.com/SahilKadge/Evaluation-Test-ArtExtract/blob/main/task1/evaluation.py)
 
 | Model Name                                                   | Test Loss | Accuracy (%) | Images per Class | Total Images | model architecture Link        |
